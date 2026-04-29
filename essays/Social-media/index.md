@@ -3,9 +3,9 @@ title: "The Rise of Social Media"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: How the rise of social media has changed the way of comunication.
-header-title: social media
-header-subtitle: how online platforms reshaped communication
+summary: How the Rise of Social Media Has Changed the Way of Comunication.
+header-title: Social Media
+header-subtitle: How Online Platforms Reshaped Communication
 header-position: center
 ---
 
