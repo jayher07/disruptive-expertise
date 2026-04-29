@@ -3,11 +3,12 @@ title: "The Rise of Social Media"
 layout: scrollstory
 header-image: images/jimmy-wales-imac.jpg
 thumbnail: images/jimmy-wales-imac.jpg
-summary: How the rise of social media has changed the way people see the world
+summary: How the rise of social media has changed the way of comunication.
 header-title: social media
 header-subtitle: how online platforms reshaped communication
 header-position: center
 ---
+
 # Introduction and Early Development
 The rise of social media started around 1970 with early versions of online communication like ARPANET, email and bulletin board systems. People believed social media could change society because communication was no longer controlled by a few major sources and it gave everyday people a voice. 
 
@@ -30,16 +31,14 @@ Another specific way social media has changed behavior is through algorithms tha
  In 2021, internal documents from Facebook showed that their algorithm sometimes promoted content that caused strong emotional reactions because it kept users engaged longer. This can push more extreme or controversial posts to the top of feeds, which affects how people understand issues. Instead of seeing balanced information, users might see more one sided or dramatic content.
 # Identity and Self Presentation
 Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly. Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
-Conclusion
+# Conclusion
 In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. 
  It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
 
 
-On January 15, 2001, a website went live that contained almost nothing—a handful of stub articles, a blank editing interface, and a deceptively simple premise: anyone could write it. No credentials required. No editorial gatekeeping. No payment. Just a web browser and an opinion.
 
 Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
 
-The story of Wikipedia is not really a story about technology. It is a story about who gets to be an expert, who decides what counts as reliable knowledge, and what happens when those gatekeeping functions are suddenly thrown open to everyone.
 
 
 ## The World Wikipedia Disrupted
@@ -54,7 +53,7 @@ But it was also slow, expensive, and inevitably incomplete. A new edition took y
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path=""
+  image-path="
   image-position="right"
   image-width="46%"
   caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
