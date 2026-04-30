@@ -50,15 +50,6 @@ The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit
 
 But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
 
-{% endcapture %}
-
-{% include images/figure-wrap.html
-  image-path="
-  image-position="right"
-  image-width="46%"
-  caption="The Encyclopaedia Britannica's multi-volume sets were symbols of authoritative knowledge—and the standard against which Wikipedia would soon be measured."
-  text=britannica_text
-%}
 
 Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
 
@@ -112,7 +103,7 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
 {% include images/jumbotron.html
-  image-path="images/head-to-head.webp"
+  image-path="images/social_media_platter.svg"
   height="85vh"
   background-position="center top"
   box-align="left"
