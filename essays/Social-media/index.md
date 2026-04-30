@@ -30,7 +30,8 @@ Social media can actually be a powerful space for debating AI because it brings 
 Another specific way social media has changed behavior is through algorithms that control what people see. Platforms like TikTok use recommendation systems that track how long someone watches a video and then show similar content. This is why people often end up scrolling for hours without realizing it. 
  In 2021, internal documents from Facebook showed that their algorithm sometimes promoted content that caused strong emotional reactions because it kept users engaged longer. This can push more extreme or controversial posts to the top of feeds, which affects how people understand issues. Instead of seeing balanced information, users might see more one sided or dramatic content.
 # Identity and Self Presentation
-Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly. Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
+Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly.
+  Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
 # Conclusion
 In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. 
  It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
@@ -103,7 +104,7 @@ These critiques were not wrong, exactly. They were describing real risks. But th
 In December 2005, the science journal *Nature* published a brief but explosive study.
 
 {% include images/jumbotron.html
-  image-path="images/social_media_platter.svg"
+  image-path="images/Social_media_platter.svg"
   height="85vh"
   background-position="center top"
   box-align="left"
