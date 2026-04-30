@@ -44,7 +44,6 @@ Within three years, Wikipedia had more articles than the *Encyclopaedia Britanni
 
 ## The World Wikipedia Disrupted
 
-{% capture britannica_text %}
 To understand why Wikipedia was so threatening, you have to understand what it replaced.
 
 The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
