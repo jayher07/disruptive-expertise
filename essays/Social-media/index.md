@@ -12,19 +12,19 @@ header-position: center
 # Introduction and Early Development
 The rise of social media started around 1970 with early versions of online communication like ARPANET, email and bulletin board systems. People believed social media could change society because communication was no longer controlled by a few major sources and it gave everyday people a voice. 
 
- A lot of information used to come mainly from places like CNN and the New York Times, but now anyone could share news or opinions. People saw this as a way to democratize information and challenge traditional norms. It also had a huge impact because of how fast news could spread. 
+A lot of information used to come mainly from places like CNN and the New York Times, but now anyone could share news or opinions. People saw this as a way to democratize information and challenge traditional norms. It also had a huge impact because of how fast news could spread. 
   
-  For example, a video of the 2009 Hudson River plane landing was shared online within minutes, while older events like the Kennedy assassination took hours or days to fully reach the public. Social media also made it possible for people to directly interact across countries through platforms like facebook messenger early chat rooms, which felt very new at the time.
+For example, a video of the 2009 Hudson River plane landing was shared online within minutes, while older events like the Kennedy assassination took hours or days to fully reach the public. Social media also made it possible for people to directly interact across countries through platforms like facebook messenger early chat rooms, which felt very new at the time.
 
 
 ## Early Excitement and Emerging Problems
 
 A lot of people were excited at first about social media. But as time went on, people started noticing more specific negative effects, especially with mental health.
 
- Studies in the mid 2010s showed that heavy instagram use was linked to increased anxiety in teenagers, especially related to body image and social comparison. There were also clear examples of online harassment, like coordinated attacks on individuals during events such as Gamergate, where people were targeted with threats and abuse across multiple platforms. 
+Studies in the mid 2010s showed that heavy instagram use was linked to increased anxiety in teenagers, especially related to body image and social comparison. There were also clear examples of online harassment, like coordinated attacks on individuals during events such as Gamergate, where people were targeted with threats and abuse across multiple platforms. 
  
  
- Misinformation also became a serious issue. During the 2016 US election, false stories spread widely on facebook, sometimes getting more engagement than real news. A 2018 United Nations report found that Facebook played a “determining role” in spreading hate speech during the Rohingya crisis, showing how social media can contribute to real world violence. These examples made it clear that the problems were not just theoretical, they were actually happening.
+Misinformation also became a serious issue. During the 2016 US election, false stories spread widely on facebook, sometimes getting more engagement than real news. A 2018 United Nations report found that Facebook played a “determining role” in spreading hate speech during the Rohingya crisis, showing how social media can contribute to real world violence. These examples made it clear that the problems were not just theoretical, they were actually happening.
 
 {% include scrollybox/bg.html
   image-path="images/SixDegrees.com_logo.png"
@@ -38,9 +38,9 @@ Fist ever social Media, aired in 1997. Scroll Boxes
 
 A lot of the early predictions about social media actually turned out to be true, just not always in the way people expected. At first, people thought platforms like facebook and twitter would give everyone a voice, and that clearly happened.
 
- For example, movements like “#MeToo” started with individuals sharing personal stories and quickly grew into global conversations that affected workplaces and laws. Social media also played a key role in political events like the Arab Spring, where protesters in Egypt used facebook pages and twitter hashtags to organize demonstrations and share real time updates when traditional media was limited. On a smaller scale, it changed everyday communication. Instead of calling or emailing, people started using snapchat streaks or Instagram dms to stay in constant contact. At the same time, while information spread faster, misinformation spread just as quickly. 
+For example, movements like “#MeToo” started with individuals sharing personal stories and quickly grew into global conversations that affected workplaces and laws. Social media also played a key role in political events like the Arab Spring, where protesters in Egypt used facebook pages and twitter hashtags to organize demonstrations and share real time updates when traditional media was limited. On a smaller scale, it changed everyday communication. Instead of calling or emailing, people started using snapchat streaks or Instagram dms to stay in constant contact. At the same time, while information spread faster, misinformation spread just as quickly. 
  
- During the covid 19 pandemic, false claims about cures and vaccines spread widely on platforms like tiktok and facebook, sometimes influencing real world decisions. So while predictions about connection and influence were correct, the downsides grew alongside them.
+During the covid 19 pandemic, false claims about cures and vaccines spread widely on platforms like tiktok and facebook, sometimes influencing real world decisions. So while predictions about connection and influence were correct, the downsides grew alongside them.
 e
 
 {% include images/jumbotron.html
@@ -81,7 +81,7 @@ Social media has also changed how people present themselves in very specific way
 
 ## The Credential Problem 
 
- In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
+In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
 
 
 ## How I Used AI for This Essay
