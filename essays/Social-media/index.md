@@ -15,128 +15,70 @@ The rise of social media started around 1970 with early versions of online commu
  A lot of information used to come mainly from places like CNN and the New York Times, but now anyone could share news or opinions. People saw this as a way to democratize information and challenge traditional norms. It also had a huge impact because of how fast news could spread. 
   
   For example, a video of the 2009 Hudson River plane landing was shared online within minutes, while older events like the Kennedy assassination took hours or days to fully reach the public. Social media also made it possible for people to directly interact across countries through platforms like facebook messenger early chat rooms, which felt very new at the time.
-# Early Excitement and Emerging Problems
-A lot of people were excited at first about social media. But as time went on, people started noticing more specific negative effects, especially with mental health. Studies in the mid 2010s showed that heavy instagram use was linked to increased anxiety in teenagers, especially related to body image and social comparison. 
-
-There were also clear examples of online harassment, like coordinated attacks on individuals during events such as Gamergate, where people were targeted with threats and abuse across multiple platforms. Misinformation also became a serious issue. During the 2016 US election, false stories spread widely on facebook, sometimes getting more engagement than real news. A 2018 United Nations report found that Facebook played a “determining role” in spreading hate speech during the Rohingya crisis, showing how social media can contribute to real world violence. These examples made it clear that the problems were not just theoretical, they were actually happening.
-# Predictions Versus Reality
-A lot of the early predictions about social media actually turned out to be true, just not always in the way people expected. At first, people thought platforms like facebook and twitter would give everyone a voice, and that clearly happened.
- For example, movements like “#MeToo” started with individuals sharing personal stories and quickly grew into global conversations that affected workplaces and laws. Social media also played a key role in political events like the Arab Spring, where protesters in Egypt used facebook pages and twitter hashtags to organize demonstrations and share real time updates when traditional media was limited. On a smaller scale, it changed everyday communication. 
-  Instead of calling or emailing, people started using snapchat streaks or Instagram dms to stay in constant contact. At the same time, while information spread faster, misinformation spread just as quickly. During the covid 19 pandemic, false claims about cures and vaccines spread widely on platforms like tiktok and facebook, sometimes influencing real world decisions. So while predictions about connection and influence were correct, the downsides grew alongside them.
-# Social Media as a Space for AI Debate
-Social media can actually be a powerful space for debating AI because it brings a lot of different perspectives together in real time. On platforms like Twitter or Reddit, discussions about tools like chat gpt or self driving cars often include developers, students, and everyday users all in the same thread. 
- For example, when AI generated art started becoming popular, artists used Twitter to argue about copyright and ownership, while others defended it as innovation. These conversations happened quickly and publicly, allowing more people to understand the issue. At the same time, misinformation can spread here too. Short posts often oversimplify complex topics like AI bias or job automation, which can lead to confusion. So while social media opens up these discussions, it does not always guarantee accuracy or depth.
-# The Role of Algorithms
-Another specific way social media has changed behavior is through algorithms that control what people see. Platforms like TikTok use recommendation systems that track how long someone watches a video and then show similar content. This is why people often end up scrolling for hours without realizing it. 
- In 2021, internal documents from Facebook showed that their algorithm sometimes promoted content that caused strong emotional reactions because it kept users engaged longer. This can push more extreme or controversial posts to the top of feeds, which affects how people understand issues. Instead of seeing balanced information, users might see more one sided or dramatic content.
-# Identity and Self Presentation
-Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly.
-  Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
-# Conclusion
-In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends.
 
 
+## Early Excitement and Emerging Problems
 
-Within three years, Wikipedia had more articles than the *Encyclopaedia Britannica*. Within a decade, it had become the largest reference work in human history. By almost any measure, it was an astonishing success—and one of the most unsettling intellectual disruptions of the twenty-first century. Not because it failed, but because it worked.
+A lot of people were excited at first about social media. But as time went on, people started noticing more specific negative effects, especially with mental health.
 
-
-
-## The World Wikipedia Disrupted
-
-To understand why Wikipedia was so threatening, you have to understand what it replaced.
-
-The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit promise: its articles would be written by recognized authorities in each field. That model—credentialed experts producing vetted, stable knowledge—defined reference works for two centuries. By the twentieth century, Britannica had become a cultural institution. Owning a set was a marker of middle-class aspiration; its contributors included Nobel laureates and heads of state.
-
-But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
-
-
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert mod
-
-#Conclusion
+ Studies in the mid 2010s showed that heavy instagram use was linked to increased anxiety in teenagers, especially related to body image and social comparison. There were also clear examples of online harassment, like coordinated attacks on individuals during events such as Gamergate, where people were targeted with threats and abuse across multiple platforms. 
+ 
+ 
+ Misinformation also became a serious issue. During the 2016 US election, false stories spread widely on facebook, sometimes getting more engagement than real news. A 2018 United Nations report found that Facebook played a “determining role” in spreading hate speech during the Rohingya crisis, showing how social media can contribute to real world violence. These examples made it clear that the problems were not just theoretical, they were actually happening.
 
 {% include scrollybox/bg.html
-  image-path="images/market-view.jpg"
+  image-path="images/SixDegrees.com_logo.png"
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
-  box-content="
-## Conclusion
+  box-content= "
+Fist ever social Media, aired in 1997. Scroll Boxes
 
-In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
-' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
+## Predictions Versus Reality
 
+A lot of the early predictions about social media actually turned out to be true, just not always in the way people expected. At first, people thought platforms like facebook and twitter would give everyone a voice, and that clearly happened.
 
-## The Critics Respond
-
-The backlash was immediate and, in some quarters, never stopped.
-
-Robert McHenry, a former editor-in-chief of the *Encyclopaedia Britannica*, published a widely-cited essay in 2004 called "The Faith-Based Encyclopedia." His argument was withering: Wikipedia's quality was not just unpredictable but *unknowable*. Because any article could be edited at any moment by anyone, a reader had no way of knowing whether what they were reading had been there for three years or three minutes. He compared using Wikipedia to leaving one's health in the hands of a randomly chosen passerby. A user "may or may not be informed, but is, in any case, not accountable and not qualifiable."
-
-{% include typography/pullquote.html text="\"The user who visits Wikipedia to learn about some subject, to confirm some piece of information, or to find a source for some assertion is rather in the position of a visitor to a public restroom. It may be obviously dirty, so that he knows to exercise great care, or it may seem fairly clean, yet still be contaminated in ways that are not immediately apparent.\" — Robert McHenry, 2004" %}
-
-Andrew Keen's *The Cult of the Amateur* (2007) raised the stakes further. Keen argued that Wikipedia was not democratizing knowledge but *destroying* it—replacing the careful, slow work of expertise with the instant, unreliable noise of crowd opinion. "The digital revolution's democratic ideology," he wrote, "is undermining cultural standards and belittling real knowledge."
-
-These critiques were not wrong, exactly. They were describing real risks. But they were also defending a model of expertise that had its own exclusions and blind spots—ones that Wikipedia's critics were often slow to acknowledge.
-
-
-## The Famous Test
-
-In December 2005, the science journal *Nature* published a brief but explosive study.
+ For example, movements like “#MeToo” started with individuals sharing personal stories and quickly grew into global conversations that affected workplaces and laws. Social media also played a key role in political events like the Arab Spring, where protesters in Egypt used facebook pages and twitter hashtags to organize demonstrations and share real time updates when traditional media was limited. On a smaller scale, it changed everyday communication. Instead of calling or emailing, people started using snapchat streaks or Instagram dms to stay in constant contact. At the same time, while information spread faster, misinformation spread just as quickly. 
+ 
+ During the covid 19 pandemic, false claims about cures and vaccines spread widely on platforms like tiktok and facebook, sometimes influencing real world decisions. So while predictions about connection and influence were correct, the downsides grew alongside them.
+e
 
 {% include images/jumbotron.html
   image-path="images/Social_media_platter.svg"
   height="85vh"
   background-position="center top"
   box-align="left"
-  text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
+  text
 %}
 
-ThNature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
 
-Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
+## Social Media as a Space for AI Debate
 
-His concern reflected something real: the disruption Wikipedia represented was not merely institutional. It was epistemological.
-
-
-## What Critics Got Right
-
-Wikipedia's success did not resolve the question of reliability—it complicated it.
-
-Research published throughout the 2000s and 2010s documented systematic problems. The "gender gap" was perhaps most striking: studies consistently found that fewer than fifteen percent of Wikipedia's editors were women, and that articles on topics associated with women and women's interests were systematically shorter, less sourced, and more likely to be flagged for deletion. Minority communities, non-Western knowledge traditions, and contested scientific topics faced similar structural underrepresentation.
-
-Clay Shirky, in *Here Comes Everybody* (2008), celebrated Wikipedia as proof that "organizing without organizations" could solve problems that traditional institutions couldn't. But the scholars who studied Wikipedia's actual editing communities found something more complicated: a self-selected group of predominantly white, Western, technically literate, male editors who imported their own assumptions about what counted as "notable" and "verifiable" just as surely as the Britannica's credentialed experts had.
-
-The crowd, it turned out, was not neutral. It was a crowd.
-
-Steven Shapin's *A Social History of Truth* (1994) helps illuminate why this should not have been surprising. Shapin showed that even in seventeenth-century scientific communities, what counted as reliable knowledge was never purely a matter of evidence—it depended on who was speaking, what social position they occupied, and who trusted them. Wikipedia changed the *form* of those social negotiations without eliminating them. The question of whose knowledge counted was still being answered, just by different mechanisms: edit wars, administrator decisions, notability debates, and the informal hierarchies of a volunteer community.
+Social media can actually be a powerful space for debating AI because it brings a lot of different perspectives together in real time. On platforms like Twitter or Reddit, discussions about tools like chat gpt or self driving cars often include developers, students, and everyday users all in the same thread. For example, when AI generated art started becoming popular, artists used Twitter to argue about copyright and ownership, while others defended it as innovation. These conversations happened quickly and publicly, allowing more people to understand the issue. At the same time, misinformation can spread here too. Short posts often oversimplify complex topics like AI bias or job automation, which can lead to confusion. So while social media opens up these discussions, it does not always guarantee accuracy or depth.
 
 
-## What Actually Happened
+## The Role of Algorithms
 
-{% capture aftermath_text %}
-By the time critics had fully articulated their concerns, Wikipedia had already transformed the information landscape.
-
-The *Encyclopaedia Britannica* published its final print edition in 2012 after 244 years. The market for expensive, multi-volume reference works had simply collapsed. Britannica pivoted to digital subscription services, but it was adapting to a world Wikipedia had already remade.
-
-Wikipedia itself was not static. Its reliability improved substantially over the years as the community developed more sophisticated quality-control mechanisms. Scholars like Joseph Reagle, in *Good Faith Collaboration* (2010), documented how Wikipedia had developed a complex culture of norms, arbitration processes, and editorial standards—different in form from traditional peer review, but not entirely unlike it in function.
+Another specific way social media has changed behavior is through algorithms that control what people see. Platforms like TikTok use recommendation systems that track how long someone watches a video and then show similar content. This is why people often end up scrolling for hours without realizing it. In 2021, internal documents from Facebook showed that their algorithm sometimes promoted content that caused strong emotional reactions because it kept users engaged longer. This can push more extreme or controversial posts to the top of feeds, which affects how people understand issues. Instead of seeing balanced information, users might see more one sided or dramatic content.
+.
 
 {% endcapture %}
 
 {% include images/figure-wrap.html
-  image-path="images/wikipedia-growth.PNG"
+  image-path="images/Music_Video_by_Wizzy.png"
   image-position="left"
   image-width="44%"
   caption="Wikipedia's growth from a few dozen articles to more than sixty million across hundreds of languages represents one of the most remarkable feats of collective knowledge production in history."
   text=aftermath_text
 %}
 
-The journalist Nicholson Baker, writing in the *New York Review of Books* in 2008, captured something the critics missed: Wikipedia was not finished. It was a living document—not a cathedral built once and maintained, but a garden that grew and changed and healed itself. That was strange and unprecedented. But it was not the same as being worthless.
 
-Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had navigated its own contradictions—open yet governed, egalitarian yet hierarchical, unfinished yet increasingly relied upon by millions. The disruption Wikipedia represented was real. But so was its resilience.
+
 
 
 ## Identity and Self Presentation
 Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly. Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
+
 
 {% include scrollybox/bg.html
   image-path="images/printing-press.jpg"
@@ -144,7 +86,7 @@ Social media has also changed how people present themselves in very specific way
   below-box-space="80vh"
   box-align="left"
   box-content="
-  
+
 ## The Credential Problem 
 
  In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
