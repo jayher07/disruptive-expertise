@@ -144,6 +144,7 @@ Social media has also changed how people present themselves in very specific way
   below-box-space="80vh"
   box-align="left"
   box-content="
+  
 ## The Credential Problem 
 
  In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
