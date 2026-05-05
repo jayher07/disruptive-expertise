@@ -33,8 +33,7 @@ Another specific way social media has changed behavior is through algorithms tha
 Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly.
   Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
 # Conclusion
-In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. 
- It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
+In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends.
 
 
 
@@ -51,20 +50,9 @@ The *Encyclopaedia Britannica* was founded in Edinburgh in 1768 with an explicit
 But it was also slow, expensive, and inevitably incomplete. A new edition took years to produce. Corrections were nearly impossible once printed. And the identity of "expert" it relied on—credentialed, Western, predominantly male—excluded enormous domains of knowledge.
 
 
-Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert model, it turned out, did not scale.
+Wikipedia's predecessor, Nupedia, tried to preserve this model for the web. Launched in 2000 by Jimmy Wales and Larry Sanger, Nupedia required peer review by credentialed academics before articles could be published. The result was agonizingly slow: after two years, Nupedia had produced just twenty-four complete articles. The expert mod
 
-The question Nupedia's failure raised was not "how do we do expert review faster?" It was more radical: what if expert review is the wrong mechanism entirely?
-
-
-{% include typography/pullquote.html text="\"Imagine a world in which every single human being can freely share in the sum of all human knowledge. That's what we're doing.\" — Jimmy Wales, Wikipedia co-founder" %}
-
-## Anyone Can Edit
-
-Ward Cunningham had invented the "wiki" in 1995—a website that any visitor could edit directly, with changes appearing instantly. The concept was designed for software developers sharing documentation. When Larry Sanger suggested in January 2001 that Nupedia try a wiki as a "feeder" system for rough drafts, Wales agreed. Within days the wiki had more activity than Nupedia had seen in months.
-
-The key insight was almost counterintuitive: the *lack* of a barrier to entry was a feature, not a bug. Removing the need for credentials meant removing the bottleneck. Wikipedia's growth was explosive precisely because it was unguarded. Anyone with knowledge—formal or informal, credentialed or accumulated through decades of lived experience—could contribute.
-
-This was not, at the time, considered a serious proposal for producing reliable knowledge. The experts said so, loudly.
+#Conclusion
 
 {% include scrollybox/bg.html
   image-path="images/market-view.jpg"
@@ -72,17 +60,10 @@ This was not, at the time, considered a serious proposal for producing reliable 
   below-box-space="80vh"
   box-align="right"
   box-content="
-## The Wiki Model: A Different Theory of Knowledge
+## Conclusion
 
-Traditional encyclopedias assumed that reliable knowledge flows *downward*: from credentialed experts to the reading public.
-
-Wikipedia inverted this. It assumed knowledge could flow *upward* and *sideways*—from anyone who knew something to everyone who needed it. Errors would be caught not by editors in advance, but by readers and other contributors over time.
-
-This is sometimes called the 'bazaar' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
-
-The philosopher Yochai Benkler called this 'commons-based peer production,' arguing in a landmark 2002 *Yale Law Journal* article that it represented a genuinely new mode of knowledge production—neither market-based nor state-organized, but collaborative and distributed.
-"
-%}
+In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
+' model, as opposed to the 'cathedral' model of traditional scholarly publishing. The cathedral is designed by architects and built according to a plan. The bazaar is chaotic, self-organizing, and—against all expectations—often works.
 
 
 ## The Critics Respond
@@ -110,7 +91,7 @@ In December 2005, the science journal *Nature* published a brief but explosive s
   text="In a blind comparison of 42 science articles, *Nature* found Wikipedia's error rate roughly comparable to Britannica's: 4 errors per article vs. 3. The finding sent shockwaves through both the encyclopedic establishment and the open-source community."
 %}
 
-The *Nature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
+ThNature* study, led by journalist Jim Giles, asked subject-matter experts to evaluate matched articles from Wikipedia and Britannica without knowing which was which. The results were striking: Wikipedia had an average of four errors per article; Britannica had three. Both contained "serious errors," according to the reviewers. The gap in reliability was far smaller than the gap in cultural prestige.
 
 Britannica's response was furious. The company published a lengthy rebuttal disputing the methodology. But the study had landed a lasting blow to the assumption that formal editorial structures were necessary for reliable information. Tom Nichols, writing more than a decade later in *The Death of Expertise* (2017), worried that findings like these had given "ordinary citizens" permission to distrust expertise altogether—that the lesson taken from Wikipedia was not "crowd review can sometimes approximate expert review" but "experts aren't necessary."
 
@@ -154,9 +135,8 @@ The journalist Nicholson Baker, writing in the *New York Review of Books* in 200
 Andrew Lih's *The Wikipedia Revolution* (2009) documented how the project had navigated its own contradictions—open yet governed, egalitarian yet hierarchical, unfinished yet increasingly relied upon by millions. The disruption Wikipedia represented was real. But so was its resilience.
 
 
-## The Deeper Question
-
-What Wikipedia actually disrupted was not just the encyclopedia business. It disrupted a centuries-old assumption about the relationship between *credentials* and *knowledge*—the idea that reliable information requires not just evidence but a certified expert to vouch for it.
+## Identity and Self Presentation
+Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly. Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
 
 {% include scrollybox/bg.html
   image-path="images/printing-press.jpg"
@@ -166,28 +146,7 @@ What Wikipedia actually disrupted was not just the encyclopedia business. It dis
   box-content="
 ## The Credential Problem 
 
-Adrian Johns demonstrated in *The Nature of the Book* (1998) that the authority of printed texts was not inherent—it had to be constructed. Early print culture was chaotic, filled with forgeries, unauthorized editions, and unreliable reproductions. Trust in the printed word emerged slowly, through booksellers' reputations, readers' networks, and institutional endorsements.
-
-Wikipedia compressed that process dramatically, and made it visible. The negotiations over what counted as reliable knowledge—which had always happened, but usually behind institutional walls—now happened in public, in edit histories, on talk pages, in deletion debates.
-
-This is what made Wikipedia historically significant, and what makes it relevant to debates about AI today: it forced the question of *how we know what we know* into plain view. The answer was never simply 'experts said so.' It was always more complicated. Wikipedia just made the complication impossible to ignore.
-"
-%}
-
-Neil Postman warned in *Amusing Ourselves to Death* (1985) that every new medium changes not just what we communicate but how we think about what is worth communicating. Wikipedia changed the medium of reference knowledge—and in doing so, it changed what questions we ask about knowledge itself.
-
-
-## Connection to AI
-
-The debates about Wikipedia in the 2000s and 2010s sound strikingly familiar to debates about AI today.
-
-Is the output reliable? Who is responsible when it's wrong? Does it flatten nuance in ways that look like knowledge but aren't? Does it encode the biases of its creators without acknowledging them? Can we trust something that cannot tell us, in any meaningful sense, *why* it said what it said?
-
-These are the right questions. And the Wikipedia case suggests they don't have clean answers.
-
-What Wikipedia showed is that disruptions to expert authority are not simply liberating or simply dangerous—they are both, and the balance shifts depending on what you're looking for, who you are, and what you already know. A Wikipedia article on a well-documented scientific topic is often genuinely reliable. An article on a contested political event, or a figure from a marginalized community, or a topic outside the dominant culture of its editors, is often not.
-
-AI presents the same asymmetry at greater scale and higher speed. Understanding what Wikipedia got right, what it got wrong, and *why*—not as a story of technology, but as a story of social power, epistemic trust, and the politics of knowledge—is essential preparation for navigating what comes next.
+ In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
 
 
 ## How I Used AI for This Essay
@@ -198,8 +157,7 @@ AI was useful for: generating an initial outline, suggesting relevant historical
 
 AI was *not* a reliable source for specific claims, quotations, or bibliographic details. Every source cited here was verified through actual databases (JSTOR, Google Scholar, library catalogs) or the original texts. Several sources that an AI initially suggested turned out to have incorrect publication dates, wrong page numbers, or—in two cases—to not exist in the form described. AI is not a substitute for source verification; it is a starting point for research, not an endpoint.
 
-The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions and contradictions that make the history interesting. Historians argue. They disagree. They revise. AI tends to synthesize and harmonize. The most important intellectual work in this essay—deciding what the evidence actually *means*—was mine to do.
-
+The deeper limitation: AI flattened the historiographic debates. When I asked it to explain "the significance of Wikipedia," it gave a confident, balanced-sounding answer that missed exactly the tensions a
 ---
 
 ## Bibliography
