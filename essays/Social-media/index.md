@@ -31,8 +31,8 @@ Misinformation also became a serious issue. During the 2016 US election, false s
   above-box-space="90vh"
   below-box-space="80vh"
   box-align="right"
-  box-content= "
-Fist ever social Media, aired in 1997. Scroll Boxes
+  box-content= "Fist ever social Media, aired in 1997."
+%}
 
 ## Predictions Versus Reality
 
