@@ -48,7 +48,7 @@ e
   height="85vh"
   background-position="center top"
   box-align="left"
-  text
+  text=""
 %}
 
 
