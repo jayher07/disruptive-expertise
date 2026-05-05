@@ -79,14 +79,6 @@ Another specific way social media has changed behavior is through algorithms tha
 ## Identity and Self Presentation
 Social media has also changed how people present themselves in very specific ways. Features like Instagram filters or Snapchat face lenses allow users to edit their appearance instantly. Over time, this has influenced beauty standards, with some people even bringing filtered photos to plastic surgeons as references. There are also clear patterns in how people post, like choosing certain angles, captions, or trends to gain more likes. This creates a kind of performance, where people shape their identity based on what gets attention rather than what is fully real.
 
-
-{% include scrollybox/bg.html
-  image-path="images/printing-press.jpg"
-  above-box-space="80vh"
-  below-box-space="80vh"
-  box-align="left"
-  box-content="
-
 ## The Credential Problem 
 
  In the end, social media is similar to other technologies like television in that it started with a lot of excitement and big expectations. Some of those expectations came true, while others did not turn out the way people thought. It has clearly changed society in major ways, but those changes can be seen in specific examples like viral news events, online movements, algorithm driven content, and mental health trends. It is not simply good or bad. Its impact depends on how people use it and how platforms are designed and regulated. As new technologies like artificial intelligence continue to grow, the story of social media shows that the details of how a technology works and how people interact with it matter just as much as the technology itself.
