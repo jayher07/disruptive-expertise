@@ -50,7 +50,6 @@ e
   box-align="left"
   text="social media taking over the world"
 %}
-
 ## Social Media as a Space for AI Debate
 
 Social media can actually be a powerful space for debating AI because it brings a lot of different perspectives together in real time. On platforms like Twitter or Reddit, discussions about tools like chat gpt or self driving cars often include developers, students, and everyday users all in the same thread. For example, when AI generated art started becoming popular, artists used Twitter to argue about copyright and ownership, while others defended it as innovation. These conversations happened quickly and publicly, allowing more people to understand the issue. At the same time, misinformation can spread here too. Short posts often oversimplify complex topics like AI bias or job automation, which can lead to confusion. So while social media opens up these discussions, it does not always guarantee accuracy or depth.h
