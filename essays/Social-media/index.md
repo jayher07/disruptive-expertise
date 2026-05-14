@@ -38,6 +38,7 @@ Misinformation also became a serious issue. During the 2016 US election, false s
 
 A lot of the early predictions about social media actually turned out to be true, just not always in the way people expected. At first, people thought platforms like facebook and twitter would give everyone a voice, and that clearly happened.
 
+
 For example, movements like “#MeToo” started with individuals sharing personal stories and quickly grew into global conversations that affected workplaces and laws. Social media also played a key role in political events like the Arab Spring, where protesters in Egypt used facebook pages and twitter hashtags to organize demonstrations and share real time updates when traditional media was limited. On a smaller scale, it changed everyday communication. Instead of calling or emailing, people started using snapchat streaks or Instagram dms to stay in constant contact. At the same time, while information spread faster, misinformation spread just as quickly. 
  
 During the covid 19 pandemic, false claims about cures and vaccines spread widely on platforms like tiktok and facebook, sometimes influencing real world decisions. So while predictions about connection and influence were correct, the downsides grew alongside them.
